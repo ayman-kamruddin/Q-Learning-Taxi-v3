@@ -1,2 +1,2 @@
 # Q-Learning-Taxi-v3
-A working draft of a tutorial, challenge and a solution of an implementation of a simple Reinforcement Learning algorithm.
+This repo contains a jupyter notebook containing code I have written almost from scratch (inspired from various sources) to solve the OpenAI Gym's Taxi-v3 environment learning problem.
